@@ -3,7 +3,7 @@ GAN based Image to Image translation model to disentangle identity specific and 
 
 This project was done as a part of Deep Learning for Computer Vision Course ([DLCV](https://val.cds.iisc.ac.in/DLCV/)): DS-265 at Indian Institute of Science ([IISc](https://iisc.ac.in/))
 
-We proposed a Structure based encoder to encode structural information from Visible and Thermal Images. For more details about the project work, please refer to the [Project report](https://github.com/chaitrasj/GAN-based-Visible-Thermal-Person-ReID/blob/main/Project%20Report/DLCV-Final%20presentation.pdf)
+We proposed a Structure based encoder to encode structural information from Visible and Thermal Images. For more details about the project work, please refer to the [Project report](https://github.com/chaitrasj/GAN-based-Visible-Thermal-Person-ReID/blob/main/Project%20Report/DLCV_RGB%20Infrared%20Cross%20Modal%20Person%20Re-identification_V1.pdf)
 
 ### Datasets
 - [SYSU-MM01](https://github.com/wuancong/SYSU-MM01)
